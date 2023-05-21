@@ -5,7 +5,7 @@ public class Car extends Bicycle {
     }
 
     public void checkEngine() {
-        System.out.println("Проверяем двигатель");
+        System.out.println("Проверяем двигатель!");
     }
 
     @Override

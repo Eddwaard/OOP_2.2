@@ -4,7 +4,7 @@ public class Truck extends Car {
     }
 
     private void checkTrailer() {
-        System.out.println("Проверяем прицеп");
+        System.out.println("Проверяем прицеп!");
     };
     @Override
     public void doService() {

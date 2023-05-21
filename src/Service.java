@@ -1,4 +1,4 @@
 public interface Service {
 
-    void doService();
+    void doService ();
 }

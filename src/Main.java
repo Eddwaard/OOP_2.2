@@ -10,7 +10,7 @@ public class Main {
         Truck truck2 = new Truck("truck2",8);
 
         Bicycle bicycle = new Bicycle("bicycle1",2);
-        Bicycle bicycle2 = new Bicycle("bicycle2",2);
+        Bicycle bicycle2 = new Bicycle("bicycle2.",2);
 
         ServiceStation station = new ServiceStation();
         MotorTechnic technic[] = {car, car2, bicycle, bicycle2, truck, truck2};

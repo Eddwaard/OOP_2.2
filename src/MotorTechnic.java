@@ -1,6 +1,6 @@
 public abstract class MotorTechnic implements Service{
 
-    private String modelName;
+    private String modelName ;
     private int wheelsCount;
 
     public MotorTechnic(String modelName, int wheelsCount) {

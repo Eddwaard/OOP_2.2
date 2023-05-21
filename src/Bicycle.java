@@ -7,7 +7,7 @@ public class Bicycle extends MotorTechnic {
 
     public void updateTyre() {
         for (int i = 0; i < getWheelsCount(); i++) {
-            System.out.println("Меняем покрышку");
+            System.out.println("Меняем покрышку!");
         }
     }
 
